@@ -1,7 +1,3 @@
-# Vulnmind-AI-Vulnerability-Detection-
-🛡️ VulnMind AI is an AI-powered vulnerability assessment platform for Kali Linux 🚀. It automates reconnaissance, port scanning, vulnerability detection, CVE mapping, and risk analysis using tools like Nmap, Nuclei, Nikto, SQLMap, and Masscan. 📊 Generates professional security reports and insights. 🔐
-
-
 # VulnMind AI 🛡️
 
 **Enterprise-Grade CLI Vulnerability Assessment Platform for Kali Linux**
@@ -31,7 +27,7 @@ AI-powered security analysis with automated reconnaissance, vulnerability scanni
 ### 1. Install
 
 ```bash
-git clone https://github.com/Nitesh18k/vulnmind-ai
+git clone https://github.com/yourname/vulnmind-ai
 cd vulnmind-ai
 bash install.sh
 ```
